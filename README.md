@@ -1,4 +1,8 @@
-# CSC3002 学习讲义
+# CSC3002 与 STA4001 学习讲义
+
+新增：[STA4001 第二、三章概念与历年 Mid 逐题精讲](STA4001/README.md)，7 册共 46 页，涵盖 Markov Chain、Poisson Process，以及 5 套 Mid 中的 19 道相关大题、72 个编号小问；提供 PDF 和 Markdown。
+
+## CSC3002
 
 七份中文 PDF，按下面的顺序阅读。M2 保留原文并附题目解析；M3-M10 六册于 2026-10-08 按七份 lecture notes、Assignment 1 和 2022 Spring 旧卷重新校准，包含概念解释、逐符号分析、状态推演、课件定位、原题解析与自编变式。
 
